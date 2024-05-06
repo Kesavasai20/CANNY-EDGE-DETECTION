@@ -1,6 +1,6 @@
 ## Canny Edge Detection using Python
 ## i)Implementation of the Canny edge detection algorithm on a sample image to obtain the edges.
-'''
+
 ## Developed By : K KESAVA SAI
 ## Register Number : 212223230105
 ## Code :
